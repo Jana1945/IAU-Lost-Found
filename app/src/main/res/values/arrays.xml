@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories">
+        <item>Electronics</item>
+        <item>Bags and backpacks</item>
+        <item>Books and stationery</item>
+        <item>Clothing</item>
+        <item>Keys and cards</item>
+        <item>Wallets and accessories</item>
+        <item>Other</item>
+    </string-array>
+
+    <!-- EXAMPLE list: replace with the team's agreed buildings -->
+    <string-array name="buildings">
+        <item>Library</item>
+        <item>College of Computer Science and IT</item>
+        <item>Student Center</item>
+        <item>Cafeteria</item>
+        <item>Parking area</item>
+        <item>Other</item>
+    </string-array>
+</resources>
